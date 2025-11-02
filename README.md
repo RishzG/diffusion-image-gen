@@ -1,7 +1,6 @@
 
 # Milestone 1 — Text-to-Image (CLIP + Diffusers)
 
-
 ## Quick Start
 ```bash
 # 1) Create and activate environment (example: conda)
