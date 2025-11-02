@@ -1,4 +1,3 @@
-
 # Milestone 1 — Text-to-Image (CLIP + Diffusers)
 
 ## Quick Start
