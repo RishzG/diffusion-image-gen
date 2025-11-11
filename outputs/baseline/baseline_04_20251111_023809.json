@@ -1,0 +1,12 @@
+{
+  "prompt": "Portrait of a person wearing sunglasses",
+  "params": {
+    "guidance_scale": 7.5,
+    "num_inference_steps": 50,
+    "height": 512,
+    "width": 512,
+    "seed": 42
+  },
+  "timestamp": "20251111_023809",
+  "experiment_type": "baseline"
+}
