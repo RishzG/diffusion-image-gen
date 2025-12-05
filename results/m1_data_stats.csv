@@ -1,0 +1,2 @@
+total_pairs,unique_images,word_count_min,word_count_max,word_count_mean,char_count_min,char_count_max,char_count_mean
+5000,5000,7,28,10.399,30,138,52.0092

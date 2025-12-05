@@ -1,0 +1,4 @@
+Metric,Value,Interpretation
+FID Score ↓,37.22,Good (lower is better)
+CLIP Score ↑,0.3129 ± 0.0287,Good alignment (higher is better)
+Inception Score ↑,29.95 ± 1.77,Very Good diversity/quality

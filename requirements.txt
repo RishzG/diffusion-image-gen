@@ -1,0 +1,12 @@
+torch>=2.0.0
+diffusers>=0.20.0
+transformers>=4.30.0
+accelerate
+safetensors
+gradio>=4.0.0
+Pillow
+numpy
+pandas
+matplotlib
+scipy
+tqdm
