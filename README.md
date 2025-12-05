@@ -1,8 +1,4 @@
-# 🎨 Text-to-Image Generation using Stable Diffusion
-
-**Course:** IE 7615 Deep Learning for AI  
-**University:** Northeastern University  
-**Date:** December 2024
+# Text-to-Image Generation using Stable Diffusion
 
 ---
 
@@ -12,13 +8,13 @@ This project implements a text-to-image generation pipeline using **Stable Diffu
 
 ---
 
-## 🚀 Demo
+##  Demo
 
 **Try it live:** [Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/text-to-image-demo)
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric | Value | Interpretation |
 |--------|-------|----------------|
@@ -33,7 +29,7 @@ This project implements a text-to-image generation pipeline using **Stable Diffu
 
 ---
 
-## 🔬 Experiments
+##  Experiments
 
 ### CFG Scale Sensitivity
 Controls how closely the image follows the prompt.
@@ -62,7 +58,7 @@ Controls image quality and generation time.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 text-to-image-generation/
@@ -88,7 +84,7 @@ text-to-image-generation/
 
 ---
 
-## 🛠️ Setup
+##  Setup
 
 ### Requirements
 ```bash
@@ -108,7 +104,7 @@ python app.py
 
 ---
 
-## 📈 Methodology
+##  Methodology
 
 ### Milestone 1: Data Preparation
 - Downloaded COCO Captions dataset (5,000 validation images)
@@ -131,7 +127,7 @@ python app.py
 
 ---
 
-## 📝 Key Findings
+##  Key Findings
 
 1. **FID Score of 37.22** indicates good image quality comparable to real COCO images
 
@@ -147,7 +143,7 @@ python app.py
 
 ---
 
-## ⚠️ Ethical Considerations
+##  Ethical Considerations
 
 - **Dataset Bias:** COCO dataset may contain biases that propagate to generated images
 - **Misuse Potential:** Text-to-image models can generate misleading or harmful content
@@ -156,7 +152,7 @@ python app.py
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - Fine-tune on domain-specific datasets
 - Experiment with different schedulers (DDIM, DPM++)
@@ -164,22 +160,6 @@ python app.py
 - Implement style control conditioning
 - Compare with newer models (SDXL, SD 3.0)
 
----
-
-## 👥 Team Members
-
-- [Name 1]
-- [Name 2]
-- [Name 3]
-
----
-
-## 🙏 Acknowledgments
-
-- [Stable Diffusion](https://github.com/CompVis/stable-diffusion) by CompVis/Stability AI
-- [CLIP](https://github.com/openai/CLIP) by OpenAI
-- [Hugging Face Diffusers](https://github.com/huggingface/diffusers)
-- [COCO Dataset](https://cocodataset.org/)
 
 ---
 
